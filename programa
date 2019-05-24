@@ -1,3 +1,6 @@
 <?php
    echo "Hola, mi nombre es Alba y hoy tengo un buen día\n";
+   $K="Hoy es un buen día";
+   $P="para ver la graduación";
+   echo $K."\n".$P;
 ?>
