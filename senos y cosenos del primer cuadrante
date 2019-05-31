@@ -1,0 +1,9 @@
+<?php
+for($i=0;$i<90;$i=$i+1){
+  $a=0;$a=$a=$a+1;
+  echo "Grados: $a";
+  echo $i;
+  echo " el seno es:
+  echo sin(($i*pi())/180)
+  }
+  ?>
